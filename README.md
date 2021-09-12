@@ -3,10 +3,10 @@
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/DarkCybers/innexia/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
+  <a href="https://github.com/NexusNoob/Quincy/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/innexiaBot"><img src="(https://telegra.ph/file/e641d3dd2ccdce6a3d934.jpg)" width="400"></a></p>
+<p align="center"><a href="https://t.me/Missquincy_bot"><img src="(https://telegra.ph/file/e641d3dd2ccdce6a3d934.jpg)" width="400"></a></p>
 
 ## Available on Telegram as [@MissQuincy_Bot](https://t.me/missquincy_bot)
 
@@ -27,7 +27,7 @@ The easiest way to deploy this Bot is via Heroku.
 ## ✨ Deploying to Local Machine ✨
 
 ```console
-$ git clone https://github.com/DarkCybers/innexia
+$ git clone https://github.com/NexusNoob/Quincy
 $ cd innexiaBot
 $ pip3 install -U -r requirements.txt
 $ cp sample_config.py config.py
@@ -39,7 +39,7 @@ $ cp sample_config.py config.py
 ## ✨ Using Docker ✨
 
 ```console
-$ git clone https://github.com/DarkCybers/innexia
+$ git clone https://github.com/NexusNoob/Quincy
 $ cd innexiaBot
 $ cp sample_config.env config.env
 ```
