@@ -27,7 +27,7 @@ The easiest way to deploy this Bot is via Heroku.
 ## ✨ Deploying to Local Machine ✨
 
 ```console
-$ git clone https://github.com/DarkCybers/innexia
+$ git clone https://github.com/NexusNoob/Quincy
 $ cd innexiaBot
 $ pip3 install -U -r requirements.txt
 $ cp sample_config.py config.py
@@ -39,7 +39,7 @@ $ cp sample_config.py config.py
 ## ✨ Using Docker ✨
 
 ```console
-$ git clone https://github.com/DarkCybers/innexia
+$ git clone https://github.com/NexusNoob/Quincy
 $ cd innexiaBot
 $ cp sample_config.env config.env
 ```
