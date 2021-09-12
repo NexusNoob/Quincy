@@ -11,8 +11,8 @@
 ## Available on Telegram as [@MissQuincy_Bot](https://t.me/missquincy_bot)
 
 # ❤️ Support
-<a href="https://t.me/SiderzBot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="t.me/SiderzChat"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/The_lostcity"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="t.me/The_lostcity"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 > ⭐️ Thanks to everyone who starred Quincy, That is the greatest pleasure we have !
