@@ -11,7 +11,7 @@
 ## Available on Telegram as [@MissQuincy_Bot](https://t.me/missquincy_bot)
 
 # ❤️ Support
-<a href="https://t.me/QuincyBot_Channel"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="t.me/QuincyBot_Channel"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="t.me/The_lostcity"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
