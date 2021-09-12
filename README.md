@@ -6,7 +6,7 @@
   <a href="https://github.com/NexusNoob/Quincy/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/Missquincy_bot"><img src="(https://telegra.ph/file/e641d3dd2ccdce6a3d934.jpg)" width="400"></a></p>
+<p align="center"><a href="https://t.me/Missquincy_bot"><img src="(https://telegra.ph/file/f974bfa5ff9a4f02eac7f.jpg)" width="400"></a></p>
 
 ## Available on Telegram as [@MissQuincy_Bot](https://t.me/missquincy_bot)
 
