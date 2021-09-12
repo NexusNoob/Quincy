@@ -8,14 +8,14 @@
 
 <p align="center"><a href="https://t.me/innexiaBot"><img src="(https://telegra.ph/file/e641d3dd2ccdce6a3d934.jpg)" width="400"></a></p>
 
-## Available on Telegram as [@Innexia](https://t.me/innexiaBot)
+## Available on Telegram as [@MissQuincy_Bot](https://t.me/missquincy_bot)
 
 # ❤️ Support
 <a href="https://t.me/SiderzBot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="t.me/SiderzChat"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
-> ⭐️ Thanks to everyone who starred Innexia, That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone who starred Quincy, That is the greatest pleasure we have !
 
 ## Click The Image And Deploy Your Bot
 
