@@ -75,9 +75,9 @@ def get_readable_time(seconds: int) -> str:
 INNEXIA_IMG = "https://telegra.ph/file/8b6f8f2bb4ff3912634c7.jpg"
 
 PM_START_TEXT = """
-- 𝙷𝚎𝚢𝚊𝚊👋 𝙸 𝚊𝚖 𝚀𝚞𝚒𝚗𝚌𝚢 
-🌈𝙰 𝚙𝚘𝚠𝚎𝚛 𝚐𝚛𝚘𝚞𝚙 𝚖𝚊𝚗𝚊𝚐𝚒𝚗𝚐 𝚋𝚘𝚝 𝚠𝚒𝚝𝚑 𝚎𝚡𝚝𝚛𝚊 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜❤️🥀 || 𝙾𝚞𝚛 𝚖𝚞𝚜𝚒𝚌 𝚋𝚘𝚝: @Quincy_x_Bot || 𝚃𝚑𝚊𝚗𝚡❤️🥀
-buttons = [
+- `𝙷𝚎𝚢𝚊𝚊👋 `𝙸 𝚊𝚖 `𝚀𝚞𝚒𝚗𝚌𝚢 
+🌈𝙰 𝚙𝚘𝚠𝚎𝚛 `𝚐𝚛𝚘𝚞𝚙 𝚖𝚊𝚗𝚊𝚐𝚒𝚗𝚐 `𝚋𝚘𝚝 𝚠𝚒𝚝𝚑 `𝚎𝚡𝚝𝚛𝚊 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜❤️🥀 || `𝙾𝚞𝚛 𝚖𝚞𝚜𝚒𝚌 `𝚋𝚘𝚝: @Quincy_x_Bot` || `𝚃𝚑𝚊𝚗𝚡❤️🥀
+`buttons = [
     [
         InlineKeyboardButton(
             text="❔Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅꜱ ❔", callback_data="help_back"),
